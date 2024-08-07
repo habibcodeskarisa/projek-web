@@ -88,7 +88,7 @@ section {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('/images/bgparallax1.jpeg');
+    background-image: url('https://img.freepik.com/free-photo/beautiful-mountainous-nature-landscape_23-2150705718.jpg?t=st=1722995017~exp=1722998617~hmac=2556a6ae9ea22506bb70f25a320c15e0e5a4547578410c2c6d81829eb06466dd&w=740');
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
